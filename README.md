@@ -1,5 +1,5 @@
 # Contact Form 7 Auto Class
-When using HubSpot and other CRMs to track nativ eofrm submissions, the forms are identified by their class name.  
+When using HubSpot and other CRMs to track native form submissions, the forms are identified by their class name.  
 By default, all cf7 forms will show up as `".wpcf7-form, .init"`.  
 
 There is an attribute that can be added to the shortcode used to embed the form `html_class="my-custom-class"`.  
